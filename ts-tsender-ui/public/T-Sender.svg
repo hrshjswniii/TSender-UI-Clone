@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="tsender-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#tsender-grad)"/>
+  <path d="M28 32 H72 V42 H56 V72 H44 V42 H28 Z" fill="#FFFFFF"/>
+  <path d="M62 52 L76 60 L62 68 Z" fill="#60A5FA"/>
+</svg>
